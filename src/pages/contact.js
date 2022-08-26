@@ -84,10 +84,10 @@ export default ({ data }) => (
             </p>
 
             <p>
-            I specialize in designing and delivering user-centered products that drive real business value through audience engagement and user experience across multiple digital channels.
+            I specialize in designing and delivering user-centered products that drive business value through audience engagement and user experience.
             </p>
 
-            <p>I am both creative and analytical, so I focus on designing engaging experiences for real people driven by real data. Ultimately, I believe design is about solving problems.</p>
+            <p>I am both creative and analytical. I focus on designing engaging experiences for real people driven by real data. Ultimately, I believe design is about solving problems.</p>
 
             <p>My favorite question is: why?</p>
 
