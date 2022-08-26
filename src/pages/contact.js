@@ -80,7 +80,7 @@ export default ({ data }) => (
             <h4 style={{ marginBottom: 24 }}>Nice to meet you!</h4>
 
             <p>
-              I'm Ashley Worsham and I’m a UX designer in San Francisco. I have a background in psychology and my desire to understand people’s behaviors, emotions, and motivations is what led me to user experience.
+              I'm Ashley Worsham and I’m a Senior UX designer in Dallas, TX. I have a background in psychology and international business and my desire to understand people’s behaviors, emotions, and motivations is what led me to user experience.
             </p>
 
             <p>
@@ -91,7 +91,7 @@ export default ({ data }) => (
 
             <p>My favorite question is: why?</p>
 
-            <p>Aside from all this, I am passionate about everything health and fitness, love to travel, and really appreciate a great breakfast burrito.</p>
+            <p>Aside from all this, I'm passionate about everything health and fitness, love to travel, and really appreciate a great breakfast burrito.</p>
           </div>
         </div>
       </Wrapper>
